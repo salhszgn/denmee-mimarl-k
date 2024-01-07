@@ -1,0 +1,33 @@
+body{
+    font-family: roboto;
+}
+
+
+header>nav:nth-child(1){
+    padding: 0;
+    border-bottom: 1px solid rgb(156, 151, 151);
+ 
+}
+
+header>nav:nth-child(1) a{
+    font-size: .7rem;
+}
+
+
+header>nav:nth-child(1) i{
+    color: rgba(53, 192, 247, 0.918);
+}
+
+.badge-notiflication{
+    position: absolute !important;
+   top: 14px !important;
+   margin-left: -1.5em;
+   margin-top: -.3em;
+   padding: .2em .45em;
+   font-size: .6em;
+   
+
+}
+
+
+
